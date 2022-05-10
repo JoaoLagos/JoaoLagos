@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Intel:-Core_i7_8700K-0071C5?style=for-the-badge&logo=intel&logoColor=blue" target="_blank">
 <img src="https://img.shields.io/badge/NVIDIA:-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=green" target="_blank">
 
+<!---<img src="https://img.shields.io/badge/Origin-joaolagos-148EFF?style=for-the-badge&logo=origin&logoColor=orange" target="_blank"> --->
+
+
 <hr><!--- ##################################################################################################################################################### --->
 
 
