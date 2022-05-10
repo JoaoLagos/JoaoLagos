@@ -20,7 +20,7 @@
 
 <img align="center" alt="BandeiraBrasil1" height="588" width="1000" src="https://vempramassa.com/wp-content/uploads/2020/03/img-caes-ladram-caravana-se-cala-600x353.png">
 
-<img align="center" alt="BandeiraBrasil2" height="700" width="1000" src="https://www.acif.org.br/wp-content/uploads/2017/04/bandeira-do-brasil-estilizada-90x60-D_NQ_NP_407701-MLB20389727016_082015-F-1024x729.jpg">
+<!---<img align="center" alt="BandeiraBrasil2" height="700" width="1000" src="https://www.acif.org.br/wp-content/uploads/2017/04/bandeira-do-brasil-estilizada-90x60-D_NQ_NP_407701-MLB20389727016_082015-F-1024x729.jpg"> --->
 
 
 
