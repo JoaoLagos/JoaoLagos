@@ -1,18 +1,22 @@
+<h1 align="center">📖 Sobre mim (About me) 📖</h1>
+
 <p align="center">
   <img height="500" wildth= "1000"src="https://user-images.githubusercontent.com/101952716/167750236-ab30202f-a091-4c0e-aad0-1b982a0af39c.png">
 </p>
 
-<h1 align="center">📖 Sobre mim (About me) 📖</h1>
-
 <!--- ######################################################################################################################################################### --->
 
--  👋 Olá, Eu sou <b>@JoaoLagos</b>
+<h2 align="center">INFORMAÇÕES:</h2>
+Sou um estudande em primeiro período de Ciência da Computação e o presente GitHub está relacionado ao armazenamento de minhas atividades acadêmicas, bem como futuros projetos pessoais. Segue algumas informações abaixo:<br><br>
+
 - 🌱 Atualmente estou aprendendo <b>Python</b> e <b>HTML</b>
 - 🎓 Cursando <b>Ciência da Computação - UFF</b>
 - 📫 Como chegar até mim ... [EM BREVE]
+<br>
 
 ![JoãoLagos's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLagos&count_private=true&show_icons=true&theme=gruvbox&border_color=DAA520)
 <!--- bg_color=F8F8FF também é uma boa --->
+
 
 <!--- ######################################################################################################################################################### --->
 
