@@ -7,7 +7,7 @@
 <!--- ######################################################################################################################################################### --->
 
 <h2 align="center">INFORMAÇÕES:</h2>
-Sou um estudande em primeiro período de Ciência da Computação e o presente GitHub está relacionado ao armazenamento de minhas atividades acadêmicas, bem como futuros projetos pessoais. Segue algumas informações abaixo:<br><br>
+Sou um estudante em primeiro período de Ciência da Computação e o presente GitHub está relacionado ao armazenamento de minhas atividades acadêmicas, bem como futuros projetos pessoais. Segue algumas informações abaixo:<br><br>
 
 - 🌱 Atualmente estou aprendendo <b>Python</b> e <b>HTML</b>
 - 🎓 Cursando <b>Ciência da Computação - UFF</b>
