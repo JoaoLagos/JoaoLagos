@@ -31,12 +31,13 @@ Sou um estudante em primeiro período de Ciência da Computação e o presente G
 </div>
 <br>
 <!--- ######################################################################################################################################################### --->
-<h2>Setup:</h2>
-<img src="https://img.shields.io/badge/Windows:-10-0078D6?style=for-the-badge&logo=windows&logoColor=blue" target="_blank">
-<img src="https://img.shields.io/badge/Intel:-Core_i7_8700K-0071C5?style=for-the-badge&logo=intel&logoColor=blue" target="_blank">
-<img src="https://img.shields.io/badge/NVIDIA:-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=green" target="_blank">
+<!---
+  <h2>Setup:</h2>
+  <img src="https://img.shields.io/badge/Windows:-10-0078D6?style=for-the-badge&logo=windows&logoColor=blue" target="_blank">
+  <img src="https://img.shields.io/badge/Intel:-Core_i7_8700K-0071C5?style=for-the-badge&logo=intel&logoColor=blue" target="_blank">
+  <img src="https://img.shields.io/badge/NVIDIA:-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=green" target="_blank">
 
-<!---<img src="https://img.shields.io/badge/Origin-joaolagos-148EFF?style=for-the-badge&logo=origin&logoColor=orange" target="_blank"> --->
+  <!---<img src="https://img.shields.io/badge/Origin-joaolagos-148EFF?style=for-the-badge&logo=origin&logoColor=orange" target="_blank"> --->
 
 
 <hr><!--- ##################################################################################################################################################### --->
