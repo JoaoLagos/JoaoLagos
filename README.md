@@ -7,9 +7,9 @@
 <!--- ######################################################################################################################################################### --->
 
 <h2 align="center">INFORMAÇÕES:</h2>
-Sou um estudante em primeiro período de Ciência da Computação e o presente GitHub está relacionado ao armazenamento de minhas atividades acadêmicas, bem como futuros projetos pessoais. Segue algumas informações abaixo:<br><br>
+Sou um estudante em terceiro período de Ciência da Computação e o presente GitHub está relacionado ao armazenamento de minhas atividades acadêmicas, bem como futuros projetos pessoais. Segue algumas informações abaixo:<br><br>
 
-- 🌱 Atualmente estou aprendendo <b>Python</b> e <b>HTML</b>
+- 🌱 Atualmente estou aprendendo <b>Automação Web com Selenium</b> e <b>Java</b>
 - 🎓 Cursando <b>Ciência da Computação - UFF</b>
 - 📫 Como chegar até mim ... [EM BREVE]
 <br>
@@ -22,9 +22,11 @@ Sou um estudante em primeiro período de Ciência da Computação e o presente G
 
 <h2>Linguagens:</h2>
 <div style="display: inline_block">
+  <img align="center" alt="Linguagem C" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   <img align="center" alt="HTML" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align ="center" alt ="CSS" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   
   <img align="right" alt="Imagem GitHub" height="75" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg">
     <!--- MINHA FOTO: src="https://scontent-gig2-1.xx.fbcdn.net/v/t1.6435-9/159169936_2222342874562680_1432299500424550972_n.jpg?_nc_cat=110&ccb=1-   6&_nc_sid=09cbfe&_nc_ohc=7Zm8oyLtpnYAX92TCxS&_nc_ht=scontent-gig2-1.xx&oh=00_AT857UYNx-4asolBeQkSAxUH22iv8SHuRz8FMEjRpVzADQ&oe=62A094C6" --->
@@ -43,11 +45,12 @@ Sou um estudante em primeiro período de Ciência da Computação e o presente G
 <hr><!--- ##################################################################################################################################################### --->
 
 
-<p align= "center"><img align="center" alt="BandeiraBrasil1" height="116" width="200" src="https://vempramassa.com/wp-content/uploads/2020/03/img-caes-ladram-caravana-se-cala-600x353.png"></p>
+<!---<p align= "center"><img align="center" alt="BandeiraBrasil1" height="116" width="200" src="https://vempramassa.com/wp-content/uploads/2020/03/img-caes-ladram-caravana-se-cala-600x353.png"></p>--->
 <!--- height="588" width="1000" --->
 
-<!---<img align="center" alt="BandeiraBrasil2" height="700" width="1000" src="https://www.acif.org.br/wp-content/uploads/2017/04/bandeira-do-brasil-estilizada-90x60-D_NQ_NP_407701-MLB20389727016_082015-F-1024x729.jpg"> --->
-
+<p align="center">
+  <img alt="BandeiraBrasil2" height="105" width="150" src="https://www.acif.org.br/wp-content/uploads/2017/04/bandeira-do-brasil-estilizada-90x60-D_NQ_NP_407701-MLB20389727016_082015-F-1024x729.jpg">
+</p>
 
 
 
