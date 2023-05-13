@@ -7,7 +7,7 @@
 <!--- ######################################################################################################################################################### --->
 
 <h2 align="center">INFORMAÇÕES:</h2>
-Sou um estudante em terceiro período de Ciência da Computação e o presente GitHub está relacionado ao armazenamento de minhas atividades acadêmicas, bem como futuros projetos pessoais. Segue algumas informações abaixo:<br><br>
+Sou estudante do terceiro período de Ciência da Computação e o presente GitHub se destina ao armazenamento de minhas atividades acadêmicas, bem como de futuros projetos pessoais. Seguem algumas informações abaixo:<br><br>
 
 - 🌱 Atualmente estou aprendendo <b>Automação Web com Selenium</b> e <b>Java</b>
 - 🎓 Cursando <b>Ciência da Computação - UFF</b>
